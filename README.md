@@ -25,7 +25,7 @@ Raycus fibre laser source tool, mostly english translations.
 Raycus fibre laser source tool, mostly english translations. 
 
 
-There is a firmware password lockout in the laser source, the laser source has to be enabled (this tool can do it)
+There is a firmware password lockout in the laser source, (Wrong pasword locked out source needs raycus tech to unlock as far as i can tell ) the laser source has to be enabled (this tool can do that too) 
 
 And its for diagnosing the laser etc.
 

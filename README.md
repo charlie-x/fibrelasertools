@@ -33,5 +33,5 @@ Debug pw is 1234
 
 Tested on CFL 1000 Raycus Serial
 
-
+![GUI](https://i.imgur.com/EYePdqA.png)
 

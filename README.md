@@ -17,23 +17,20 @@ There is no real file format verification here
 
 # Raycus
 
-<<<<<<< HEAD
+
 Raycus fibre laser source tool, mostly english translations. 
 
 ## If you don't know what this for don't mess with it.
-=======
+
 Raycus fibre laser source tool, mostly english translations. If you don't know what this for don't mess with it.
->>>>>>> f98b997e6d169e86c6f6eb4676e5d3733381e89d
+
 
 There is a firmware password lockout in the laser source, the laser source has to be enabled (this tool can do it)
 
 And its for diagnosing the laser etc.
 
-<<<<<<< HEAD
+
 Tested on CFL 1000 Raycus Serial
 
-
-=======
->>>>>>> f98b997e6d169e86c6f6eb4676e5d3733381e89d
 
 

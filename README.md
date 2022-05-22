@@ -15,3 +15,13 @@ There is no real file format verification here
 
 ![GUI](https://i.imgur.com/C9a41fv.png)
 
+# Raycus
+
+Raycus fibre laser source tool, mostly english translations. If you don't know what this for don't mess with it.
+
+There is a firmware password lockout in the laser source, the laser source has to be enabled (this tool can do it)
+
+And its for diagnosing the laser etc.
+
+
+

@@ -22,7 +22,7 @@ Raycus fibre laser source tool, mostly english translations.
 
 ## If you don't know what this for don't mess with it.
 
-Raycus fibre laser source tool, mostly english translations. If you don't know what this for don't mess with it.
+Raycus fibre laser source tool, mostly english translations. 
 
 
 There is a firmware password lockout in the laser source, the laser source has to be enabled (this tool can do it)

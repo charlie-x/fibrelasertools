@@ -29,6 +29,7 @@ There is a firmware password lockout in the laser source, the laser source has t
 
 And its for diagnosing the laser etc.
 
+Debug pw is 1234
 
 Tested on CFL 1000 Raycus Serial
 

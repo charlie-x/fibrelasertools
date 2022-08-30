@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <item id="1">
+    <SoftFunc>1234</SoftFunc>
+    <IP>192.168.0.10</IP>
+    <PASSWORD>1234</PASSWORD>
+  </item>
+</Config>

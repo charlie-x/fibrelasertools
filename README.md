@@ -15,6 +15,11 @@ There is no real file format verification here
 
 ![GUI](https://i.imgur.com/C9a41fv.png)
 
+
+decoded format is here
+
+https://charliex2.wordpress.com/2022/01/24/ezcad-ezd-parsing-the-pens/
+
 # Raycus
 
 
